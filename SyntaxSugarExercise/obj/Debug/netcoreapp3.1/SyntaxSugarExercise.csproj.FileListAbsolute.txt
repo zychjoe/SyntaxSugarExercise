@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.genruntimeconfig.cache
